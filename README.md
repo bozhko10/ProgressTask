@@ -11,4 +11,4 @@ I used SQLite to create the sample database from the given list of products in g
 The documentation on the components is exhaustive, and it is easy to read. The video demos helped in the initial steps of integrating the UI. Any advice I could give is to continue making demos for more advanced PHP components.
 
 ## Technologies used:
-HTML, CSS, PHP, SQLite, JavaScript and Telerik UI for PHP
+HTML, CSS, PHP, SQLite, JavaScript, Apache server and Telerik UI for PHP
